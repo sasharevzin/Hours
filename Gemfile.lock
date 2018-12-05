@@ -830,9 +830,9 @@ GEM
     sexp_processor (4.6.1)
     shoulda-matchers (2.7.0)
       activesupport (>= 3.0.0)
-    simple_form (3.5.0)
-      actionpack (> 4, < 5.2)
-      activemodel (> 4, < 5.2)
+    simple_form (4.0.0)
+      actionpack (> 4)
+      activemodel (> 4)
     simplecov (0.8.2)
       docile (~> 1.1.0)
       multi_json
@@ -940,7 +940,7 @@ DEPENDENCIES
   sass-rails (~> 5.0.1)
   select2-rails
   shoulda-matchers (~> 2.7.0)
-  simple_form (~> 3.5.0)
+  simple_form (~> 4.0.0)
   simplecov
   spring
   spring-commands-rspec
